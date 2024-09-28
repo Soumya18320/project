@@ -1,4 +1,4 @@
 pywhatkit
-base64
+pybase64
 streamlit
 datetime
