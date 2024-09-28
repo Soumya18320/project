@@ -1,3 +1,4 @@
 pywhatkit
 base64
+streamlit
 datetime
